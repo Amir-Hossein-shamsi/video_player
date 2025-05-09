@@ -1,0 +1,43 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+build/
+dist/
+
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files created by player decryption
+tmp/
+*.enc.tmp
+
+# Python virtual environment
+Pipfile.lock
+
+# Encryption keys or password files (if any)
+*.key
+*.pem
+
+# Media files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.mp3
+*.wav
+
+# Encrypted media
+*.enc
