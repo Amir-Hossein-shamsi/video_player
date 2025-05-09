@@ -24,7 +24,7 @@ A cross-platform desktop application for secure video playback, built with Pytho
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/secure-pyqt5-media-player.git
+   git clone https://github.com/Amir-Hossein-shamsi/video_player.git
    cd secure-pyqt5-media-player
    ```
 
